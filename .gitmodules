@@ -8,3 +8,13 @@
 	url = https://github.com/hamedhm/bdwreg
 	shallow = true
 	registered = true
+[submodule "DLASSO"]
+	path = DLASSO
+	url = https://github.com/cran/DLASSO
+	shallow = true
+	registered = true
+[submodule "DREGAR"]
+	path = DREGAR
+	url = https://github.com/cran/DREGAR
+	shallow = true
+	registered = true
