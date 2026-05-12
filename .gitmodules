@@ -11,3 +11,6 @@
 [submodule "DREGAR"]
 	path = DREGAR
 	url = https://github.com/cran/DREGAR
+[submodule "SmoothWin"]
+	path = SmoothWin
+	url = https://github.com/cran/SmoothWin
